@@ -34,14 +34,13 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":Speed: Zola is one of the fastest static site generators available, thanks to its use of the Rust programming language. This makes it an excellent choice for developers who want to create fast, responsive websites.","photo":"https://iili.io/HvutFVf.jpg"},
+  {"title":"how to use this app 2","desc":"Templates: Zola uses the popular templating language called Tera. It offers a wide range of built-in functions and filters that make it easy to customize your site's look and feel.","photo":"https://iili.io/Hvutdts.png"},
+  {"title":"helper pack 3","desc":"Markdown support: Zola supports Markdown, a lightweight markup language that allows you to write content in a plain text format. This makes it easy to create and publish blog posts, articles, and other types of content.","photo":"https://iili.io/HvutJNn.png"},
+  {"title":"advance mod 4","desc":"Image processing: Zola comes with built-in image processing capabilities, which allows you to optimize images for the web, resize them, and even generate responsive images.","photo":"https://iili.io/HvutHAX.jpg"},
+  {"title":"tips pack 5","desc":"Extensibility: Zola is highly extensible, meaning you can add new features and functionality to it using plugins. There are several plugins available for Zola, including ones that add support for syntax highlighting, social media sharing, and more.CLI: Zola comes with a powerful command-line interface (CLI) that makes it easy to build, preview, and deploy your site.","photo":"https://iili.io/HvutqKl.jpg"},
+  {"title":"advice pack 6","desc":"CLI: Zola comes with a powerful command-line interface (CLI) that makes it easy to build, preview, and deploy your site.","photo":https://iili.io/HvutBl2.jpg"},
+  {"title":"tips pack 8","desc":"If you're interested in using Zola for your next web development project, the first step is to download and install it. You can do this by visiting the Zola website and following the installation instructions for your operating system.","photo":"https://iili.io/HvutKP4.jpg"}
 
    ]
  
